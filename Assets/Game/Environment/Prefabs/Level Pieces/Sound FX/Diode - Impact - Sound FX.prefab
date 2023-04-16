@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7571888120885586588
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5350664440138889327}
+  - component: {fileID: 6554205608674563837}
+  m_Layer: 20
+  m_Name: Diode - Impact - Sound FX
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5350664440138889327
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7571888120885586588}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6554205608674563837
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7571888120885586588}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe4594bbf4cd1374f8c472d3ceb06bb4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - soundName: Hit
+    debounce:
+      debounceTime: 0
+      currentDebounceTime: 0
+    clips:
+    - {fileID: 8300000, guid: 1d011cff28a4d49498f3eff1b456eb57, type: 3}
+    - {fileID: 8300000, guid: fd5fa56836d629d42b01211b919ccd90, type: 3}
+    - {fileID: 8300000, guid: 6787aa687a5693c429af583875051ce3, type: 3}
+    - {fileID: 8300000, guid: 2aeaa8715e2ae044c85b24937a3a613a, type: 3}
+    playOnAwake: 0
+    loop: 0
+    prioritySetting: 1
+    spatial3d: 1
+    referencePosition: {fileID: 5350664440138889327}
+    followReferencePosition: 0
+    rolloffMode: 1
+    distance:
+      min: 1
+      max: 7
+    randomVolume: 1
+    volume: 1
+    volumeRange:
+      min: 0.5
+      max: 0.7
+    randomPitch: 1
+    pitch: 1
+    pitchRange:
+      min: 0.9
+      max: 1

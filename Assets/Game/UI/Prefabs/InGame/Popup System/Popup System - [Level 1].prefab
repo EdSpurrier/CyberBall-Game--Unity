@@ -1,0 +1,373 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5008859298146628116
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1058622684581552205, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1058622684581552205, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1058622684581552205, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1058622684581552205, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1058622684581552205, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1058622684581552205, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1058622684581552205, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1058622684581552205, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1058622684581552205, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1058622684581552205, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1058622684581552205, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[0].header
+      value: PHISHING FLAGS
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[1].header
+      value: PHISHING FLAGS
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[2].header
+      value: PHISHING FLAGS
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[3].header
+      value: PHISHING FLAGS
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[0].content
+      value: Be wary of any email requesting personal information. A real company
+        would never ask for this out of the blue.
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[1].content
+      value: Urgent! Time is running out! Data will be lost! Attackers will try to
+        solicit a rushed decision to entice you to click the link. Stop, take a breath
+        and consider your actions.
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[2].content
+      value: "Check links before you open them \u2013 Roll your mouse over the link
+        to see the destination URL. Keep any eye out for sneaky tricks like:\n\nLink:
+        luxuryescapes.com/\r\nRollover link text: 1uxuryescapes.com/"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[3].content
+      value: "Check links before you open them \u2013 Roll your mouse over the link
+        to see the destination URL. Keep any eye out for sneaky tricks like\n\nLink:
+        luxuryescapes.com/\r\nRollover link text: 1uxuryescapes.com/"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[0].subHeader
+      value: '#1 - Personal info'
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[1].popupName
+      value: Info Popup 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[1].subHeader
+      value: '#2 - Claim now!'
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[2].popupName
+      value: Info Popup 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[2].subHeader
+      value: '#3 - Malicious links'
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[3].popupName
+      value: Finish Level Popup
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[3].subHeader
+      value: '#3 - Malicious links'
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[3].popupOpenEvent.eventName
+      value: Popup Open
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[3].popupCloseEvent.eventName
+      value: Popup Close
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[1].popupOpenEvent.actions.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[2].popupOpenEvent.actions.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[0].popupCloseEvent.actions.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[1].popupCloseEvent.actions.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[2].popupCloseEvent.actions.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[3].popupCloseEvent.actions.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[0].popupCloseEvent.actions.Array.data[0].toggle
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[3].popupCloseEvent.actions.Array.data[0].toggle
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[0].popupCloseEvent.actions.Array.data[0].actionType
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[1].popupCloseEvent.actions.Array.data[0].actionType
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[2].popupCloseEvent.actions.Array.data[0].actionType
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[3].popupCloseEvent.actions.Array.data[0].actionType
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[0].popupCloseEvent.actions.Array.data[0].soundFX.soundName
+      value: No Sound Selected...
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[3].popupCloseEvent.actions.Array.data[0].soundFX.soundName
+      value: No Sound Selected...
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[0].popupCloseEvent.actions.Array.data[0].animation.animator
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[1].popupCloseEvent.actions.Array.data[0].objects.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[2].popupCloseEvent.actions.Array.data[0].objects.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[0].popupCloseEvent.actions.Array.data[0].animation.boolValue
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[3].popupCloseEvent.actions.Array.data[0].animation.boolValue
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[0].popupCloseEvent.actions.Array.data[0].animation.parameterName
+      value: Activate
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[1].popupCloseEvent.actions.Array.data[0].animation.parameterName
+      value: Activate
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[2].popupCloseEvent.actions.Array.data[0].animation.parameterName
+      value: Activate
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[3].popupCloseEvent.actions.Array.data[0].animation.parameterName
+      value: Activate
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[0].popupCloseEvent.actions.Array.data[0].eventManager.eventManager
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[0].popupCloseEvent.actions.Array.data[0].animation.animationTriggerType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[1].popupCloseEvent.actions.Array.data[0].animation.animationTriggerType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[2].popupCloseEvent.actions.Array.data[0].animation.animationTriggerType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[3].popupCloseEvent.actions.Array.data[0].animation.animationTriggerType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[0].popupCloseEvent.actions.Array.data[0].randomizeRotation.randomRange.max
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[0].popupCloseEvent.actions.Array.data[0].randomizeRotation.randomRange.min
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[3].popupCloseEvent.actions.Array.data[0].randomizeRotation.randomRange.max
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[3].popupCloseEvent.actions.Array.data[0].randomizeRotation.randomRange.min
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[0].popupCloseEvent.actions.Array.data[0].randomizePosition.randomRange.max.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[0].popupCloseEvent.actions.Array.data[0].randomizePosition.randomRange.max.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[0].popupCloseEvent.actions.Array.data[0].randomizePosition.randomRange.max.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[3].popupCloseEvent.actions.Array.data[0].randomizePosition.randomRange.max.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[3].popupCloseEvent.actions.Array.data[0].randomizePosition.randomRange.max.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[3].popupCloseEvent.actions.Array.data[0].randomizePosition.randomRange.max.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[3].popupCloseEvent.actions.Array.data[0].sceneUpdate.sceneCoreScene.sceneName
+      value: Cut Scene - Level 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[0].popupCloseEvent.actions.Array.data[0].sceneUpdate.sceneCoreScene.activateOnLoad
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1367264089933636599, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: popups.Array.data[3].popupCloseEvent.actions.Array.data[0].sceneUpdate.sceneCoreScene.activateOnLoad
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7936243133054797780, guid: ef75ce7ff47d40e43b290d2f89c93a04,
+        type: 3}
+      propertyPath: m_Name
+      value: Popup System - [Level 1]
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ef75ce7ff47d40e43b290d2f89c93a04, type: 3}
